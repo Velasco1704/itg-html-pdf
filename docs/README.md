@@ -75,7 +75,7 @@ Agrega el componente en el `manifest.json` de tu **store theme**
 
 El componente PdfReader es un componente de React que se encarga de renderizar un visor de PDF.
 
-```jsx
+```tsx
 import React, { useEffect, useState } from 'react';
 import { useCssHandles } from 'vtex.css-handles';
 import './styles.css';
